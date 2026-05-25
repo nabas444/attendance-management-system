@@ -1,22 +1,4 @@
 # 📋 Campus Attendance System
-
----
-
-> **Course Name:** Advanced Internet Programming
-> **Course Code:** INSY3082
-> **Department:** Information Science
-> **Section:** 2
-
-### Group Members
-
-| Full Name      | ID          |
-| -------------- | ----------- |
-| Natnael Abebe  | UGR/8142/16 |
-| Rediet Jenberu | UGR/3945/16 |
-| Sawsan Amir    | UGR/0184/16 |
-
----
-
 ## Table of Contents
 
 - [Overview](#overview)

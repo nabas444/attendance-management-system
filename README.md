@@ -1,4 +1,4 @@
-# 📋 Campus Attendance System
+# 📋 School Attendance System
 ## Table of Contents
 
 - [Overview](#overview)
